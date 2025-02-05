@@ -22,9 +22,9 @@ A Spring Boot application that integrates with a public API to provide real-time
 2. Configure the public API key (if required):  
    - Create .env file in root directory.  
    - Add your API key if the API service you are using requires authentication:  
-     ```.env
+     ```
      API_URL="Your-API-URL" eg:https://xyz.org/api/latest.json?app_id={appId}&base={base}
-API_KEY="<your-API-KEY>"
+     API_KEY="<your-API-KEY>"
      ```  
 
 3. Build the project using Maven:  
