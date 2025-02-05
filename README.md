@@ -15,8 +15,8 @@ A Spring Boot application that integrates with a public API to provide real-time
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/currency-conversion-api.git
-   cd currency-conversion-api
+   git clone https://github.com/Anandkrishna017/Currency-Converter-API-Integration.git
+   cd Currency-Converter-API-Integration
    ```  
 
 2. Configure the public API key (if required):  
